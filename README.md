@@ -52,5 +52,28 @@ Well, we're going to find out! The Nobel Foundation has made a dataset available
 | birth_country	                  | The birth country of the laureate.                                    |
 | laureate_type	     |  is it individual or oranizational ?  |
 | sex   | The gender of the laureate.|  
+| organization_name   |  |
+| organization_city	               |                 |
+| organization_country	                  |                                    |
+| death_date	     |   |
+| death_city	   | |  
+| age		   | |  
 </div>
+
+  3. **Data Exploration**: 
+  - Analyzing the different variables , and create new variables to answer the objectives of our analysis. 
+  - Creating different interactive visualizations to support our analysis. 
+  
+    ## 📌 Outcomes:
+    - **The are 911 nobel laureates as of between 1901 and 2016.**
+ <div align="center">
+
+| Sex             | Count                                                                                  |
+|:----------------------|:----------------------------------------------------------------------------------------------|
+| Female              |  49 |
+| Male               | 836               |
+| NA               | 26               |
+</div>
+
+**91.76% of the  laureates of the nobel prize are male while 5.37%  are female.**
 
