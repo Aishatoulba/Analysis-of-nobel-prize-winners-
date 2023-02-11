@@ -29,3 +29,28 @@ Well, we're going to find out! The Nobel Foundation has made a dataset available
 **6.Analyzing age trends within different prize categories.**
 
 **7.Finding out the oldest and the youngest winner of a Nobel prize as of 2016.**
+
+ ## ⚙️ Process:
+  1. **Setting up our working environment**: Github repository & Jupyter Notebook 
+  2. **Data  Understanding**:
+   - Understanding the dataset we have :
+   <div align="center">
+
+| Variable              | Description                                                                                   |
+|:----------------------|:----------------------------------------------------------------------------------------------|
+| Year              |  The year in which the laureate got the prize  |
+| Category                | The category in which the Nobel Prize is accorded                 |
+| Prize                   | The name of the prize awarded.                                    |
+| motivation	     |  Motivation of the nobel prize.  |
+| prize_share    | The prize share the laureate got |
+| Category                | The category in which the Nobel Prize is accorded                 |
+| laureate_id                  | The id of the laureate.                                    |
+| laureate_type	     |  is it individual or oranizational ?  |
+| full_name   | The name of the laureate. |  
+| birth_date   | The birth date of the laureate. |
+| birth_city               | The city in which the laureate is born.                |
+| birth_country	                  | The birth country of the laureate.                                    |
+| laureate_type	     |  is it individual or oranizational ?  |
+| sex   | The gender of the laureate.|  
+</div>
+
