@@ -28,7 +28,6 @@ Well, we're going to find out! The Nobel Foundation has made a dataset available
 
 **6.Analyzing age trends within different prize categories.**
 
-**7.Finding out the oldest and the youngest winner of a Nobel prize as of 2016.**
 
  ## ⚙️ Process:
   1. **Setting up our working environment**: Github repository & Jupyter Notebook 
@@ -77,3 +76,44 @@ Well, we're going to find out! The Nobel Foundation has made a dataset available
 
 **91.76% of the  laureates of the nobel prize are male while 5.37%  are female.**
 
+- **USA Dominance.**
+<img align="center" src="https://github.com/AishaAhmedToulba/visual-history-of-nobel-prize-winners/blob/main/blob/main/images/descarga%20(10).png" width="700px">
+
+**As we can see from the plot above , the USA became the dominating winner of the Nobel Prize first in the 1930s and has kept the leading position ever since.**
+
+**Maybe it shouldn't come as a shock that there is some imbalance between how many male and female prize winners there are, but how significant is this imbalance?.**
+
+<img align="center" src="https://github.com/AishaAhmedToulba/visual-history-of-nobel-prize-winners/blob/main/blob/main/images/descarga%20(11).png" width="700px">
+
+**From the plot above , we can see that the imbalance is pretty large with physics, economics, and chemistry having the largest imbalance. Medicine has a somewhat positive trend, and since the 1990s the literature prize is also now more balanced. The big outlier is the peace prize during the 2010s, but keep in mind that this just covers the years 2010 to 2016.**
+
+Given this imbalance, who was the first woman to receive a Nobel Prize? And in what category?
+**The first woman to receive a nobel prize is Marie Curie, née Sklodowska born on 1867-11-07	in Marsaw , the prize category is Physics.**
+ 
+**In the table below , we can see the lucky ones who got the nobel prize more than once.**
+The list of repeat winners contains some illustrious names! We again meet Marie Curie, who got the prize in physics for discovering radiation and in chemistry for isolating radium and polonium. John Bardeen got it twice in physics for transistors and superconductivity, Frederick Sanger got it twice in chemistry, and Linus Carl Pauling got it first in chemistry and later in peace for his work in promoting nuclear disarmament. We also learn that organizations also get the prize as both the Red Cross and the UNHCR have gotten it twice.
+
+ <div align="center">
+
+| full_name            | n                                                                                 |
+|:----------------------|:----------------------------------------------------------------------------------------------|
+| Comité international de la Croix Rouge (International Committee of the Red Cross)	              |  3 |
+| Frederick Sanger               | 2               |
+| John Bardeen	               | 2               |
+| Linus Carl Pauling		              |  2|
+| Marie Curie, née Sklodowska              | 2              |
+| Office of the United Nations High Commissioner for Refugees (UNHCR)               |2               |
+</div>
+
+- How old are you when you get the prize?
+<img align="center" src="https://github.com/AishaAhmedToulba/visual-history-of-nobel-prize-winners/blob/main/blob/main/images/descarga%20(13).png" width="700px">
+
+The plot above shows us a lot! We see that people use to be around 55 when they received the price, but nowadays the average is closer to 65. But there is a large spread in the laureates' ages, and while most are 50+, some are very young.
+
+We also see that the density of points is much high nowadays than in the early 1900s -- nowadays many more of the prizes are shared, and so there are many more winners. We also see that there was a disruption in awarded prizes around the Second World War (1939 - 1945).
+
+**looking at age trends within different prize categories.**
+
+<img align="center" src="https://github.com/AishaAhmedToulba/visual-history-of-nobel-prize-winners/blob/main/blob/main/images/descarga%20(12).png" width="700px">
+
+We see that both winners of the chemistry, medicine, and physics prize have gotten older over time. The trend is strongest for physics: the average age used to be below 50, and now it's almost 70. Literature and economics are more stable, and we also see that economics is a newer category. But peace shows an opposite trend where winners are getting younger!
