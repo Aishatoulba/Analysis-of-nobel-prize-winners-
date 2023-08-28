@@ -22,6 +22,6 @@ In this project , I'll be analyzing a dataset containing information about nobel
 
 
  ## ⚙️ Process:
-  1. **Setting up our working environment**: Github repository & Jupyter Notebook 
+  1. **Setting up our working environment**: R & Jupyter Notebook 
   2. **Data Inspection**: Data understanding , checking data types and missing values
-  3. **Exploratory Data Analysis**:
+  3. **Exploratory Data Analysis**: used data answer questions.
