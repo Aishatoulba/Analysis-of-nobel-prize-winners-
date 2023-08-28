@@ -1,5 +1,5 @@
 ![Header](https://media.npr.org/assets/img/2022/06/21/gettyimages-1241423375-cb7850626ce4a3e4982b6555fc110f18767c67db.jpg)
-Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> 
 This project is a datacamp practice project that I have done while studying the data scientist with R track :)
 
 ## 👀 Scenario
